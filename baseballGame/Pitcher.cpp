@@ -18,3 +18,5 @@ class Pitcher {
 
 //https://cplusplus.com/doc/tutorial/
 //https://stackoverflow.com/questions/12733888/regarding-c-include-another-class
+//https://www.learncpp.com/
+//https://www.simplilearn.com/tutorials/cpp-tutorial/guide-to-understand-cpp-header-files
